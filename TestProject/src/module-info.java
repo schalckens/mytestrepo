@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vscha
+ *
+ */
+module TestProject {
+}
